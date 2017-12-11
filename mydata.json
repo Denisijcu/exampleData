@@ -1,0 +1,20 @@
+[
+  {
+    id: 1,
+    name: 'Denis',
+    lastname: 'Sanchez',
+    city: 'Miami'
+  }, 
+  {
+   id: 2,
+    name: 'Daynier',
+    lastname: 'Rojas',
+    city: 'Houston'
+  },
+  {
+   id: 1,
+    name: 'Sindy',
+    lastname: 'Sanchez',
+    city: 'Nebraska'
+  }
+]
